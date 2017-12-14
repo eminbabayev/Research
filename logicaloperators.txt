@@ -1,0 +1,26 @@
+                                  Mentiq operatorlari hansilardir?
+
+Logical Operators (Mentiq Operatorlari)
+Mentigi operatorlar 3 yere bolunurler:
+1)&&(Logical AND)-mentiqi vurma.
+Boolean (True or false) komekli ile asagdakilar qeyd olunur:
+True && False=False
+False&& True=False
+False&&False=False
+True&&True=True
+
+2) ||(LOGICAL OR)-mentiqi toplama.
+"Ve ya" anlaminda
+True||False=True
+False||True=True
+True||True=True
+False||False=False
+
+3)!(LOGICAL UNARY NOT)-mentiqi inkar.
+notA=B
+notB=A
+
+notFalse=True
+notTrue=False
+
+

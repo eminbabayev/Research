@@ -1,0 +1,15 @@
+
+                                                                   Deyishen(Variables) nedir?
+
+Deyisenler informasiya kompüter proqraminda manipulyasiya edilmek 
+üçün istifade olunur. Onlar da  bir ad ile melumat etiketleme üsulu temin edir,
+ bele ki, bizim proqramlari oxucu ve özümüz terefinden daha deqiq basa düsüle biler. 
+Degiskenleri informasiya tutan konteynirlar olaraq düsünmek faydalidir.
+ Onlarin yegane meqsedi melumatlari yaddasda etiketlemek ve saxlamaqdir.
+
+Bu melumatlar proqraminiz boyunca istifade edile biler.
+1.Deyisen adlari reqemnen baslamaq olmaz
+2.Deyisen adlarinda probel istifade etmek olmaz
+3.Herfleden istifade etmek olmaz
+4.yalniz "_" bu simvoldan istifade etmek olar
+variable type   variable name = value;

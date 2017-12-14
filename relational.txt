@@ -1,0 +1,15 @@
+					Sert operatorlari hansilardir?
+
+Relational operators
+Novbetilerdir:
+1)== (beraberlik) Meselen.a==b (a ve b qiymeti  beraberdir)
+
+2)!= (beraber deyil) Meselen.x!=y (x ve y qiymeti eyni deyil,beraber deyil)
+
+3) >  Meselen a>b  (a   b -dan coxdur)
+
+4) <  Meselen a<b   (a    b -dan azdir)
+
+5) >= Meselen a>=b   ( a   b -dan cox ve ya beraberdir)
+
+6) <= Meselen a<=b   (a  b -dan az ve ya beraberdir)

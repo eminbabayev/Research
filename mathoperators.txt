@@ -1,0 +1,22 @@
+Riyazi operatorlar hansilardir? Ferqli proqramlasdirma dillerinde bu operatorlar arasinda hansi ferqli xüsusiyetler var?
+Riyazi operatorlar yani  Arithmetic Operators bunlardir:
++
+-
+/
+*
+%
+Basliyaq
+1)+ Iki operandin cemlenmesi .Meselen a=4;b=3; S=a+b=4+3=7;
+2)- Ikinci operanddan birinci cixir. Meselen a=7;b=1; S=a-b=7-1=6;
+3)/ Iki operandin bir birine bolmesi.Meselen a=21;b=5; S=a/b=21/5=4(qaliqsiz yaxin olani verir)
+4)* IKi operanddin bir birine vurmasi.Meselen a=2;b=5; S=a*b=2*5=10;
+5)% Iki operandin bir birine bolmesi neticesinde qalan qaliqi qosterir. Meselen a=21;b=2;S=21%2=1;
+	Yuxarda qosterdiyimiz ilk 4 operatorlar butun dillerde eynidir
+Lakin 5ci ne qeldikde ise bunu demek olmaz.
+Beleki,
+	%operatoru Pascal da diger dillerden ferqli olaraq ferqlenir.
+Orada % mod la evezlenir
+Meselen 21mod6=3
+Qalan diller:21%6=3
+Hemcinin Pascal dilinde div operaciyasi isliyir.(2 reqemin bir birine bolende tam hisseni cixardir)
+
